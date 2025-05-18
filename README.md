@@ -8,7 +8,12 @@
   <h1>Análise de Dados na Premier League: A Evolução de Arsenal e Manchester City através dos Números</h1>
 
   <h2>📁 Dataset</h2>
-  <p>O projeto utiliza um dataset <code>epl_final.csv</code> contendo informações detalhadas sobre jogos da Premier League, incluindo:</p>
+  <p>
+  Neste estudo, utilizei a base de dados 
+  <a href="https://www.kaggle.com/datasets/marcohuiii/english-premier-league-epl-match-data-2000-2025" target="_blank">
+    English Premier League (EPL) Match Data 2000-2025
+  </a>, disponível no Kaggle, para analisar como Arsenal e Manchester City evoluíram nos últimos anos e como os números ajudam a contar essa história.
+</p>
   <ul>
     <li>Chutes e chutes no alvo</li>
     <li>Escanteios</li>
