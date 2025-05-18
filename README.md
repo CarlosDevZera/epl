@@ -2,35 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Análise de Dados da Premier League (Arsenal e Manchester City)</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #003366;
-    }
-    ul {
-      line-height: 1.6;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      overflow-x: auto;
-      border-left: 4px solid #ccc;
-    }
-    .imagem {
-      margin: 20px 0;
-    }
-  </style>
 </head>
 <body>
 
