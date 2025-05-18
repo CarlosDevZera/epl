@@ -5,8 +5,7 @@
 </head>
 <body>
 
-  <h1>📊 Análise de Desempenho - Premier League</h1>
-  <p><strong>Projeto em Python para análise estatística dos times Arsenal e Manchester City na Premier League.</strong></p>
+  <h1>Análise de Dados na Premier League: A Evolução de Arsenal e Manchester City através dos Números</h1>
 
   <h2>📁 Dataset</h2>
   <p>O projeto utiliza um dataset <code>epl_final.csv</code> contendo informações detalhadas sobre jogos da Premier League, incluindo:</p>
